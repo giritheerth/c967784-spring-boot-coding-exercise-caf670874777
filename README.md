@@ -1,3 +1,7 @@
+Note: 
+1. Implemented first case with appropriate test and screen shot documentation.
+
+
 # Spring Boot Coding Exercise
 
 This is a simple coding exercise that will allow you to demonstrate your knowledge
