@@ -1,5 +1,7 @@
 Note: 
 1. Implemented first case with appropriate test and screen shot documentation.
+2. Please note unit test coverage of 80% more is acheived on the implementation.
+3. Sonar lint snap shot is also provieded with no major issue identified.
 
 
 # Spring Boot Coding Exercise
